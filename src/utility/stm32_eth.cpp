@@ -117,7 +117,7 @@ static void TIM_scheduler_Config(void);
 #endif
 
 /**
-* @brief  Configurates the network interface
+* @brief  Configures the network interface
 * @param  None
 * @retval None
 */
